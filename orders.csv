@@ -1,0 +1,11 @@
+﻿OrderID,CustomerID,ProductID,Region,Category,Quantity,Price,OrderDate
+1001,C101,P01,West,Electronics,2,25000,10-01-2025
+1002,C102,P02,South,Furniture,1,15000,11-01-2025
+1003,C103,P03,North,Clothing,3,1200,12-01-2025
+1004,C101,P02,West,Furniture,2,15000,15-01-2025
+1005,C104,P04,East,Home Decor,5,800,18-01-2025
+1006,C105,P01,South,Electronics,1,25000,20-01-2025
+1007,C102,P05,North,Books,4,500,22-01-2025
+1008,C106,P03,West,Clothing,2,1200,25-01-2025
+1009,C107,P04,East,Home Decor,3,800,27-01-2025
+1010,C108,P05,South,Books,6,500,30-01-2025

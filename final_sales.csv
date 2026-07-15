@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductID,Region,Quantity,Price,OrderDate,TotalAmount,CustomerName,City,State,ProductName,Category,Brand,TotalSales
+1001,C101,P01,West,2,25000,2025-01-10,50000,Rahul,Pune,Maharashtra,Laptop,Electronics,Dell,50000
+1002,C102,P02,South,1,15000,2025-01-11,15000,Priya,Mumbai,Maharashtra,Office Chair,Furniture,GreenSoul,15000
+1003,C103,P03,North,3,1200,2025-01-12,3600,Amit,Nagpur,Maharashtra,T-Shirt,Clothing,Levis,3600
+1004,C101,P02,West,2,15000,2025-01-15,30000,Rahul,Pune,Maharashtra,Office Chair,Furniture,GreenSoul,30000
+1005,C104,P04,East,5,800,2025-01-18,4000,Neha,Nashik,Maharashtra,Wall Clock,Home Decor,Ajanta,4000
+1006,C105,P01,South,1,25000,2025-01-20,25000,Rohan,Thane,Maharashtra,Laptop,Electronics,Dell,25000
+1007,C102,P05,North,4,500,2025-01-22,2000,Priya,Mumbai,Maharashtra,Book,Books,Penguin,2000
+1008,C106,P03,West,2,1200,2025-01-25,2400,Sneha,Aurangabad,Maharashtra,T-Shirt,Clothing,Levis,2400
+1009,C107,P04,East,3,800,2025-01-27,2400,Vikram,Solapur,Maharashtra,Wall Clock,Home Decor,Ajanta,2400
+1010,C108,P05,South,6,500,2025-01-30,3000,Pooja,Kolhapur,Maharashtra,Book,Books,Penguin,3000
